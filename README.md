@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dbonates, former CTO (Peixe Urbano, Delivery Much, Singu)
 - 👀 I do Product and Technology things
 - 🧠 I’m in love with AI
-- 📫 How to reach me: [bonates.com](https://bonates.com) | [LinkedIn](https://www.linkedin.com/in/danielbonates/)
+- 📫 How to reach me: [bonates.com](https://bonates.com) | [A Busca - AI Powered Search](https://busca.bonates.com/) | [LinkedIn](https://www.linkedin.com/in/danielbonates/)
 
 <!---
 dbonates/dbonates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
