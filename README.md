@@ -3,7 +3,7 @@
 - 🧠 I’m in love with AI
 - 📫 How to reach me:
   - [Bonates.com](https://bonates.com)
-  - [A Busca - AI Powered Search](https://busca.bonates.com/)
+  - [A Busca - my AI Powered Search](https://busca.bonates.com/)
   - [LinkedIn](https://www.linkedin.com/in/danielbonates/)
 
 <!---
