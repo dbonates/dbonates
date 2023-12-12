@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @dbonates, former CTO (Peixe Urbano, Delivery Much, Singu)
 - 👀 I do Product and Technology things
-- 🧠 I’m in love with AI
+- 🧠 I make AI stuff.
+- I'm working on my startup, AI related.
+
 ## 👨‍💻 Reach me
   - [Bonates.com](https://bonates.com)
-  - [A Busca (my AI Powered Search)](https://busca.bonates.com/)
   - [LinkedIn](https://www.linkedin.com/in/danielbonates/)
 
 <!---
