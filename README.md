@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbonates, former CTO (Peixe Urbano, Delivery Much, Singu)
+- 👋 Hi, I’m @dbonates, working at WEX Inc, former CTO (Peixe Urbano, Delivery Much, Singu)
 - 👀 I build Product and Technology things
 - 🧠 I make AI stuff
 
